@@ -1,19 +1,29 @@
 <Html>
 
 <Head>
-    <title>TOP 5 BOLADÃO </title>
+    <title> TOP 5 BOLADÃO </title>
+    
+    <style>
+
+  img, P, h6, h5, h4, h3, h2{
+  display: block;
+  margin: auto;
+  text-align: center;
+  }
+  body{background-color: brown;}
+  </style>
+
 </Head>
 
 <header>
-    <P>TOP 5 MELHORES FILMES! </P>
-    <img src="Imagens/Top 5.jpeg" style="height: 250;">
+    <P><b>TOP 5 MELHORES FILMES!</b></P>
 </header>
 
 
 <body>
     <!--5 lugar-->
-    <h6><b> 5 LUGAR - THE BATMAN </b> </h6> 
-    <img src="/Imagens/the batman.jpg" style="height: 250;">
+    <h6> 5 LUGAR - THE BATMAN </h6> 
+    <img src="../Imagens/the batman.jpg" style="height: 250;">
 
 
 <p> </br>
@@ -22,8 +32,8 @@
    
     
       <!--4 lugar-->
-    <h5> 4 LUGAR - CORRA! </h5>
-     <img src="Imagens/corra.jpeg" style="height: 250;">
+    <h5> 4 LUGAR - CORRA!</h5>
+     <img src="../Imagens/corra.jpeg" style="height: 250;">
  
     
 <p> </br>
@@ -33,7 +43,7 @@
        <!--3 lugar-->
 
        <h4>3 LUGAR - GENTE GRANDE </h4>
-       <img src="Imagens/gentegrande.jpg" style="height: 250;">
+       <img src="../Imagens/gentegrande.jpg" style="height: 250;">
 
    
 <p> </br>
@@ -43,7 +53,7 @@
      <!--Segundo Lugar-->
 
     <h3> 2 LUGAR - O Alto da Compadecida </h3>
-    <img src="Imagens/ADC.jpg" style="height: 250;">
+    <img src="../Imagens/ADC.jpg" style="height: 250;">
     
    
    
@@ -54,7 +64,7 @@
    <!--primeiro Lugar-->
 
    <h2> 1 LUGAR - FORREST GUMP </h2>
-   <img src="Imagens/forrest gump.jpg" style="height: 250;">
+   <img src="../Imagens/forrest gump.jpg" style="height: 250;">
 
 
 
