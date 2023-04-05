@@ -1,0 +1,67 @@
+<Html>
+
+<Head>
+    <title>TOP 5 BOLADÃO </title>
+</Head>
+
+<header>
+    <P>TOP 5 MELHORES FILMES! </P>
+    <img src="Imagens/Top 5.jpeg" style="height: 250;">
+</header>
+
+
+<body>
+    <!--5 lugar-->
+    <h6><b> 5 LUGAR - THE BATMAN </b> </h6> 
+    <img src="/Imagens/the batman.jpg" style="height: 250;">
+
+
+<p> </br>
+    Sinopse: Batman (The Batman, no original) segue o segundo ano de Bruce Wayne (Robert Pattinson) como o herói de Gotham, causando medo nos corações dos criminosos da sombria cidade.
+</p>  
+   
+    
+      <!--4 lugar-->
+    <h5> 4 LUGAR - CORRA! </h5>
+     <img src="Imagens/corra.jpeg" style="height: 250;">
+ 
+    
+<p> </br>
+    Sinopse: Chris é um jovem fotógrafo negro que está prestes a conhecer os pais de Rose, sua namorada caucasiana. Na luxuosa propriedade dos pais dela, Chris percebe que a família esconde algo muito perturbador.
+</p>  
+ 
+       <!--3 lugar-->
+
+       <h4>3 LUGAR - GENTE GRANDE </h4>
+       <img src="Imagens/gentegrande.jpg" style="height: 250;">
+
+   
+<p> </br>
+    Sinopse: A morte do treinador de basquete de infância de velhos amigos reúne a turma no mesmo lugar que celebraram um campeonato anos atrás. Os amigos, acompanhados de suas esposas e filhos, descobrem que idade não significa o mesmo que maturidade.
+</p>
+
+     <!--Segundo Lugar-->
+
+    <h3> 2 LUGAR - O Alto da Compadecida </h3>
+    <img src="Imagens/ADC.jpg" style="height: 250;">
+    
+   
+   
+   <p> </br>
+    Sinopse: As aventuras de João Grilo e Chicó, dois nordestinos pobres que vivem de golpes para sobreviver. Eles estão sempre enganando o povo de um pequeno vilarejo, inclusive o temido cangaceiro Severino de Aracaju, que os persegue pela região.
+   </p>
+
+   <!--primeiro Lugar-->
+
+   <h2> 1 LUGAR - FORREST GUMP </h2>
+   <img src="Imagens/forrest gump.jpg" style="height: 250;">
+
+
+
+<p> </br>
+    Sinopse: Mesmo com o raciocínio lento, Forrest Gump nunca se sentiu desfavorecido. Graças ao apoio da mãe, ele teve uma vida normal. Seja no campo de futebol como um astro do esporte, lutando no Vietnã ou como capitão de um barco de pesca de camarão, Forrest inspira a todos com seu otimismo. Mas a pessoa que Forrest mais ama pode ser a mais difícil de salvar: seu amor de infância, a doce e perturbada Jenny.
+</p>
+
+    
+<h1>É ISSO LORE S2 </h1>
+</Html>
