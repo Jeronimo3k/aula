@@ -1,0 +1,100 @@
+<Html>
+
+    <Head>
+        <title> MAMACO KING </title>
+        <link href="site.css" rel="stylesheet" type="text/css">
+           
+    <style>
+        
+        body{
+                background-color: palevioletred;
+            }   
+    
+    </style>
+    
+    </Head>
+    
+    
+    <header>
+       <h1> MAMACO KING</h1>
+       <h2> QUEIMA DE ESTOQUE </h2>
+        <h3>VOLTA AS AULAS </h3>
+    </header>
+    
+    
+    <body>
+     
+        <h4>Veja nossas promoções abaixo: </h4>
+
+        <table>
+      
+      
+            <!--<td rowspan="5">rowspan</td>--> 
+            <td colspan="5"> <b> Mamaco King! </b> </td>
+            
+            
+                  <tr>
+                  <th> Foto do Item </th>
+                  <th> Nome do Item </th>
+                  <th> Quantidade em estoque </th>
+                  <th> Preço Normal </th>
+                  <th> Preço promocional </th>
+
+                  </tr>
+                
+                 <tr>
+                <td> <img src="../Imagens/caneta.jpg"> </td>
+                <td> Caneta azul (M.G edition) </td>
+                <td> 1.500 </td>
+                <td> 2,00 </td> 
+                <td> 1,50 </td>
+                </tr>
+               
+              <!--aqui eu tenho minha primeira linha (TR= table roll)-->
+                <tr>
+                <td> <img src="../Imagens/caderno.jpeg"> </td>
+                <td> Caderno capa dura (M.G Edition) </td>
+                <td> 1.000</td>
+                <td>35,00</td> 
+                <td>30,00</td>
+                </tr>
+                
+                <!--aqui começa outra linha-->
+                <tr>
+                <td><img src="../Imagens/carai borracha mano.jpg"> </td>
+                <td> borracha ("carai borracha mano" Edition) </td>
+                <td> 1.000 </td>
+                <td> 1,00 </td> 
+                <td> 0,90 </td>
+                </tr>
+              
+                <tr>
+                <td> <img src="../Imagens/mochilas.jpg"> </td>
+                <td> Mochila (infantil) </td>
+                <td> 50 </td>
+                <td> 60,00 </td>
+                <td>55,50</td>
+                </tr>  
+          
+                <tr>
+                <td><img src="../Imagens/garrafa.jpeg" alt=""> </td>
+                <td>garrafa de água nada especial (chata) </td>
+                <td> 30 </td>
+                <td> 25,00</td>
+                <td> 20,00 </td>
+                </tr>
+                
+              </table>
+
+    
+
+
+    
+        <div>
+            <a href="https://www.linkedin.com/in/eduardo-jeronimo-1b6a64265/" target="_blank">linkedin</a>
+            <div>
+                <p> Eduardo Jeronimo ¨&copy; 2023 </p>
+    
+    </Body>
+    
+    </Html>
